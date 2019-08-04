@@ -9,7 +9,6 @@ class tasksController extends Controller
         $tasks = new Task();
 
         $d['tasks'] = $tasks->showAllTasks();
-        #var_dump($d);
         $this->set($d);
         $this->render("index");
     }

@@ -7,6 +7,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet">
 
     <link href="starter-template.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../public/style.css">
 
     <style>
         body {
